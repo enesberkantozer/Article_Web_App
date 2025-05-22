@@ -1,0 +1,62 @@
+*.log
+*.tmp
+*.swp
+*.bak
+.DS_Store
+Thumbs.db
+**/.env
+**/.env.local
+**/.env.*
+.vscode/
+.idea/
+
+#############################
+# 🔧 Backend (.NET Core)    #
+#############################
+backend/bin/
+backend/obj/
+backend/*.db
+backend/*.suo
+backend/*.user
+backend/.vs/
+backend/Properties/launchSettings.json
+
+#############################
+# 🎨 Frontend (React)       #
+#############################
+# dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# testing
+frontend/coverage
+
+# production
+frontend/build
+
+# misc
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+#############################
+# 🧠 Microservice (Flask)   #
+#############################
+microservice/__pycache__/
+microservice/**/*.py[cod]
+microservice/*.pyc
+microservice/.mypy_cache/
+microservice/.pytest_cache/
+
+#############################
+# 💬 Diğer                 #
+#############################
+*.rej
+*.orig
