@@ -50,7 +50,7 @@ frontend/yarn-error.log*
 #############################
 # 🧠 Microservice (Flask)   #
 #############################
-microservice/__pycache__/
+microservice/**/__pycache__/
 microservice/**/*.py[cod]
 microservice/*.pyc
 microservice/.mypy_cache/
