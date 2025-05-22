@@ -13,13 +13,13 @@ Thumbs.db
 #############################
 # 🔧 Backend (.NET Core)    #
 #############################
-backend/bin/
-backend/obj/
-backend/*.db
-backend/*.suo
-backend/*.user
-backend/.vs/
-backend/Properties/launchSettings.json
+backend/ArticleCheck.WebApi/bin/
+backend/ArticleCheck.WebApi/obj/
+backend/ArticleCheck.WebApi/*.db
+backend/ArticleCheck.WebApi/*.user
+backend/ArticleCheck.WebApi/*.suo
+backend/ArticleCheck.WebApi/.vs/
+backend/ArticleCheck.WebApi/Properties/launchSettings.json
 
 #############################
 # 🎨 Frontend (React)       #
