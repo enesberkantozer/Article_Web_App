@@ -20,6 +20,7 @@ backend/ArticleCheck.WebApi/*.user
 backend/ArticleCheck.WebApi/*.suo
 backend/.vs/
 backend/ArticleCheck.WebApi/Properties/launchSettings.json
+backend/ArticleCheck.WebApi/wwwroot
 
 #############################
 # 🎨 Frontend (React)       #
