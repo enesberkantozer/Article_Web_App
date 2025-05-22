@@ -55,6 +55,7 @@ microservice/**/*.py[cod]
 microservice/*.pyc
 microservice/.mypy_cache/
 microservice/.pytest_cache/
+microservice/Files/
 
 #############################
 # 💬 Diğer                 #
