@@ -18,7 +18,7 @@ backend/ArticleCheck.WebApi/obj/
 backend/ArticleCheck.WebApi/*.db
 backend/ArticleCheck.WebApi/*.user
 backend/ArticleCheck.WebApi/*.suo
-backend/ArticleCheck.WebApi/.vs/
+backend/.vs/
 backend/ArticleCheck.WebApi/Properties/launchSettings.json
 
 #############################
